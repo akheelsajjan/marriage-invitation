@@ -11280,11 +11280,13 @@ p.general {
 }
 
 .dateheader {
-  background-color: #f9f9f94d;
-  border: solid 1px #E47A2E;
-  margin-bottom: 4vh;
+  /* background-color: #f9f9f94d; */
   padding-top: 2vh;
   width: 80vw;
+  height: 10vh;
+  background-color: #E47A2E;
+  margin-bottom: 18vh;
+
 }
 
 /* lineup class and keyframes */
